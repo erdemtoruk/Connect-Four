@@ -10,7 +10,7 @@ This project is a C program that you can play Connect Four agains developed bot.
 ### Template
 
 This project is ITU's data structures assignment. Some parts of the work does not belong to me!<br>
-The template was provided by [Enes Erdoğan].
+The template was provided by **Res. Assist. Enes Erdoğan**.
 
 ### License
 
