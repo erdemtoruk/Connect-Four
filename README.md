@@ -4,7 +4,7 @@ This project is a C program that you can play Connect Four agains developed bot.
 
 ## Features
 
-**Game:** You can play the game with either a human or bot.
+**Game:** You can play the game with either a human or bot. <br>
 **Bot:** The program uses tree data structure to make the most efficent move.
 
 ### Template
